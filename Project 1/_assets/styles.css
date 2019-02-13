@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+body {
+
+}
+
+span {
+  color: red;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: black;
+}
+
+body {
+  font-family: "Helvetica Neue", "Helvetica", Arial, san-serif;
+}
