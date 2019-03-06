@@ -1,0 +1,301 @@
+* {
+  margin: 0;
+}
+
+.haitiparent {
+  height: 54vh;
+  background-color: black;
+  width: 90%;
+  color: black;
+  margin: 5%;
+  position: relative;
+
+
+}
+
+.haiti {
+  height: 54vw;
+  background-color: black;
+  width: 90%;
+  margin: 5%;
+  position: relative;
+  text-align: center;
+}
+
+
+.blue {
+
+  height: 50%;
+  width: 100%;
+  background-color: #001f9f;
+  position: absolute;
+  top: 0%;
+  color: #001f9f;
+}
+
+.red {
+
+  height: 50%;
+  width: 100%;
+
+  background-color: #d20f34;
+  position: absolute;
+  bottom: 0%;
+  color: #d20f34;
+
+}
+
+
+
+.para {
+  font-size: 4vw;
+  margin: 2%;
+  font-family: azo-sans-uber, sans-serif;
+
+  font-weight: 400;
+
+  font-style: normal;
+  text-align: center;
+}
+
+.mainbody {
+  font-size: 2vw;
+  font-family: azo-sans-web, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+margin-left: 5%;
+margin-right: 5%;
+
+
+}
+
+.links {
+  font-size: 2vw;
+  font-family: azo-sans-web, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 5%;
+
+}
+
+.haitiimage {
+  width: 50%;
+  height: auto;
+  top: 100px;
+
+}
+
+.haitiemblem {
+
+  height: 30%;
+  width: 22%;
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/emblemhaiti.png');
+  background-size: cover;
+
+  left: 39%;
+  bottom: 35%;
+}
+
+.india {
+
+  height: 60vw;
+  background-color: ffffff;
+  width: 90%;
+  margin: 5%;
+  position: relative;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.orange {
+  height:33.33%;
+  width: 100%;
+  background-color: #ff9933;
+  position: absolute;
+  top: 0%;
+  color: #ff9933;
+}
+
+.white {
+  height:33.33%;
+  width: 100%;
+  background-color: #128807;
+  position: absolute;
+  bottom: 0%;
+  color: #128807;
+
+}
+
+.indiaemblem {
+  height: 30%;
+  width: 23%;
+
+
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/indiaemblem.png');
+  background-size: cover;
+
+  left: 38.5%;
+  bottom: 36%;
+}
+
+.honduras {
+  height: 45vw;
+  background-color: ffffff;
+  width: 90%;
+  margin: 5%;
+  position: relative;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.hondurasstarparent {
+  height: 32%;
+  width: 33.333%;
+  position: absolute;
+  bottom: 0%;
+  left: 33.33%;
+  bottom: 34%;
+  z-index: 1;
+}
+
+.hondurasstar {
+  height: 35%;
+  width: 20%;
+
+
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/star.png');
+  background-size: cover;
+
+  left: -3%;
+  bottom: 65%;
+}
+
+.hondurasstar1 {
+  height: 35%;
+  width: 20%;
+
+
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/star.png');
+  background-size: cover;
+
+  left: -3%;
+  bottom: 8%;
+}
+
+.hondurasstar2 {
+  height: 35%;
+  width: 20%;
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/star.png');
+  background-size: cover;
+
+  left: 39%;
+  bottom: 36.5%;
+}
+
+.hondurasstar3 {
+  height: 35%;
+  width: 20%;
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/star.png');
+  background-size: cover;
+
+  left: 80%;
+  top: 0;
+}
+
+.hondurasstar4 {
+  height: 35%;
+  width: 20%;
+  position: absolute;
+  bottom: 0%;
+  color: black;
+  background-image: url('../images/star.png');
+  background-size: cover;
+
+  left: 80%;
+  bottom: 8%;
+}
+
+.lightblue {
+  height:33.33%;
+
+  width: 100%;
+  background-color: #3173c8;
+  position: absolute;
+  top: 0%;
+  color: #3173c8;
+}
+
+.lightblue2 {
+  height:33.33%;
+  width: 100%;
+  background-color: #3173c8;
+  position: absolute;
+  bottom: 0%;
+  color: #3173c8;
+}
+
+.rwanda {
+  height: 60vw;
+  background-color: #fad200;
+  width: 90%;
+  margin: 5%;
+  position: relative;
+  text-align: center;
+
+}
+
+.rwandablue {
+  height: 50%;
+  width: 100%;
+  background-color: #04a4db;
+  position: absolute;
+  top: 0%;
+
+}
+
+.green {
+  height: 25%;
+  width: 100%;
+  background-color: #21603d;
+  position: absolute;
+  bottom: 0%;
+  color: #21603d;
+}
+
+.rwandaemblem {
+  height: 64%;
+  width: 23%;
+
+
+  position: absolute;
+  bottom: 0%;
+  background-image: url('../images/rwanda.png');
+  background-size: cover;
+
+  left: 70%;
+  bottom: 22%;
+}
